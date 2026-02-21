@@ -2,7 +2,7 @@
 
 This project applies a supervised machine learning workflow in Python to model municipality–month variation in average tortilla prices between 2011 and 2017.
 
-The goal is to evaluate whether incorporating **infrastructure-disruption indicators** — specifically illegal oil tap counts — improves out-of-sample predictive performance relative to a baseline model using traditional economic predictors.
+The goal is to evaluate whether incorporating infrastructure-disruption indicators (specifically illegal oil tap counts) improves out-of-sample predictive performance relative to a baseline model using traditional economic predictors.
 
 ---
 
