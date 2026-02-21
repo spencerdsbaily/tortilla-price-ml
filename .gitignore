@@ -1,0 +1,17 @@
+# Data files (do not upload raw data)
+data/
+*.csv
+*.xlsx
+*.parquet
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Virtual environments
+venv/
+env/
